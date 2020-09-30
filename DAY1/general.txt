@@ -1,2 +1,2 @@
 In this project I have used html and css (SCSS preprocessor) to build this fancy cube.It is part of my 100 daysofcodingchallenge
-Check it out here:-(https://codepen.io/akanshakant/pen/gOrJeRa)
+
