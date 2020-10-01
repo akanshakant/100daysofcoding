@@ -1,0 +1,2 @@
+On day 2 I tried learning this html ,css(scss) based project.
+Check out my codepen :
