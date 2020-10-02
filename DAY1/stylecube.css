@@ -3,7 +3,7 @@ $alpha : 0.7;
 @keyframes spin {
 	0% {transform: rotatex(0deg) rotatey(0deg);}
 	50% {transform: rotatex(360deg) rotatey(0deg);}
-	100% {transform: rotatex(360deg) rotatey(360deg);}
+	100% {transform: rotatex(90deg) rotatey(90deg);}
 }
 
 .scene {
